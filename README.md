@@ -4,7 +4,7 @@ HO Loksteuerung mit Raspberry
 ein Projekt von Siggi und Rainer
 
 ## Labor Setup Rainer
-Die elektrische Installation des Labors: [Photo Elektrik](./laborSetup/elektrik.png)  
+Die elektrische Installation des Labors: ![Photo Elektrik](./laborSetup/elektrik.png)  
 Dazu gehört ein (C Gleis Märklin) Stück Gleis von ca 1m Länge.
 
 ### Elektrik
@@ -16,6 +16,6 @@ Der gelbe Teil ist eine TRIX Steuerung (Mobile Station, Hersteller Nummer 66955)
 - Mit Programmiermöglichkeit
 - Siehe Dokumentation [TRIX Bedienungsanleitung](./laborSetup/Trix.mobileStation.66955.pdf)
 - Ausschnitte aus der Dokumenation
-  - Abbildung und Menü [Abbildung](./laborSetup/trix.mobilestation.abbildungUndMenu.png)
-  - Funktionsumfang [Funktionsumfang](./laborSetup/trix.mobilestation.eigenschaften.png)
-  - Anschluss [Anschluss](./laborSetup/trix.mobilestation.anschluss.png)
+  - Abbildung und Menü ![Abbildung](./laborSetup/trix.mobilestation.abbildungUndMenu.png)
+  - Funktionsumfang ![Funktionsumfang](./laborSetup/trix.mobilestation.eigenschaften.png)
+  - Anschluss ![Anschluss](./laborSetup/trix.mobilestation.anschluss.png)
