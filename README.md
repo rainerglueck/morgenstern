@@ -7,6 +7,9 @@ ein Projekt von Siggi und Rainer
 Die elektrische Installation des Labors: ![Photo Elektrik](./laborSetup/elektrik.png)  
 Dazu gehört ein (C Gleis Märklin) Stück Gleis von ca 1m Länge.
 
+## DCC
+see [DCC](./dcc/README.MD)
+
 ### Elektrik
 Der grüne Teil zeigt die Selbstbau Elektronik von Siggi & Kai, Digitalformat Motorola.  
 Der gelbe Teil ist eine TRIX Steuerung (Mobile Station, Hersteller Nummer 66955)
